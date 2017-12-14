@@ -23,9 +23,11 @@ Turn the phone off, wait two minutes, then turn it back on, please.
 *The situation here is that the plan you added is on the reserve. If you need the Hi-speed data back, we need to add now the plan but the service days you have left will be lost and you will not receive a refund or credit for the days you are not going to use.
 You cannot transfer the SIM card just like that. Your device is compatible with our company, the only thing you need to do is get the BYOP kit and you will get a SIM card that will be compatible with your phone.
 
-Chat ID: 
-Customer Email: 
-Issue: 
-Action: 
-Carrier/Department: 
-Resolution: 
+
+We are almost done! There are just a few more steps you need to follow to get your device(s) working: 
+Please make sure your SIM card is inserted into your phone. 
+Turn your phone OFF and back ON. 
+Make a call. 
+If the call does not connect, wait a few minutes, reboot your phone, and try again.
+Once your new phone is active, you may receive a text message to update your data settings. If your data does not work, text APN to 611611. 
+Note: In some instances, the data may take up to 30 minutes to work properly.
