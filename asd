@@ -75,11 +75,3 @@ ISSUE:
 ACTION: 
 CARRIER/DEPARTMENT: 
 RESOLUTION: 
-
-
-
-Estimado candidato, en seguimiento a la plaza de 
-loss prevention turno MID al que esta aplicando, por favor presentarse  el da 
-Jueves 08:15 a la oficina de la gerente de loss prevention (tercer nivel PC2 
-adentro de piso oficina a lado izquierdo command center), Muchas 
-Gracias
